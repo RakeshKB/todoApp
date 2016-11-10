@@ -1,0 +1,26 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "first step in learning nodejs api development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RakeshKB/todoApp"
+  },
+  "keywords": [
+    "todo-app"
+  ],
+  "author": "RakeshKB <mail2rakeshkb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RakeshKB/todoApp/issues"
+  },
+  "homepage": "https://github.com/RakeshKB/todoApp",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  }
+}
